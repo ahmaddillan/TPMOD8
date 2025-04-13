@@ -1,0 +1,15 @@
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.AssemblyInfoInputs.cache
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.AssemblyInfo.cs
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.csproj.CoreCompileInputs.cache
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.sourcelink.json
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\bin\Debug\net8.0\TPMOD8_103022300037.exe
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\bin\Debug\net8.0\TPMOD8_103022300037.deps.json
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\bin\Debug\net8.0\TPMOD8_103022300037.runtimeconfig.json
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\bin\Debug\net8.0\TPMOD8_103022300037.dll
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\bin\Debug\net8.0\TPMOD8_103022300037.pdb
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.dll
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\refint\TPMOD8_103022300037.dll
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.pdb
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\TPMOD8_103022300037.genruntimeconfig.cache
+C:\Users\Dillan\source\repos\TPMOD8_103022300037\TPMOD8_103022300037\obj\Debug\net8.0\ref\TPMOD8_103022300037.dll
